@@ -1,39 +1,45 @@
 {
   "project_info": {
-    "project_number": "123",
-    "firebase_url": "https://cordova-plugin-firebase.firebaseio.com",
-    "project_id": "cordova-plugin-firebase",
-    "storage_bucket": "cordova-plugin-firebase.appspot.com"
+    "project_number": "915970213329",
+    "firebase_url": "https://heart-box-86733533.firebaseio.com",
+    "project_id": "heart-box-86733533",
+    "storage_bucket": "heart-box-86733533.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:123:android:123",
+        "mobilesdk_app_id": "1:915970213329:android:10dc85ac44ddd6c5",
         "android_client_info": {
-          "package_name": "com.github.cordova_plugin_firebase"
+          "package_name": "com.radbrothers.heartbox"
         }
       },
       "oauth_client": [
         {
-          "client_id": "123.apps.googleusercontent.com",
+          "client_id": "915970213329-qnhgv75oi6f9pdkhirsfvsdb9ic51oti.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.radbrothers.heartbox",
+            "certificate_hash": "4da0499f1df7f368e9cdb063068a56022416c3dd"
+          }
+        },
+        {
+          "client_id": "915970213329-8vvco5kmmhcgmau3ggr5o73gnbl6nq9d.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "123"
+          "current_key": "AIzaSyByVDisCJ4ClylZLXY6-6byq7Sy_R2IKQo"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915970213329-8vvco5kmmhcgmau3ggr5o73gnbl6nq9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
